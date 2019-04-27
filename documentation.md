@@ -1,7 +1,7 @@
 # Machine Learning 1 - project proposal
 ### Ewa Sobolewska, Ewelina Osowska
 
-## Regression task (using small dataset)
+## Regression task (using small dataset) kupka
 
 **Subject:** 
 Comparison of performance of KNN algorithm and linear regression - case of violent crimes commited in different communities within the United States.
