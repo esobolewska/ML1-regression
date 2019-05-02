@@ -16,12 +16,15 @@ jupyter:
 # %autosave 0
 ## blablabla
 ##### ahfglarhvgr
+# dupadupacycki
 ```
+
+tutaj cos licze
+
 
 ```{python}
-
+import numpy as np
 ```
-
 
 ```{python}
 
