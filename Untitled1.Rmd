@@ -14,17 +14,27 @@ jupyter:
 
 ```{python}
 # %autosave 0
-## blablabla
-##### ahfglarhvgr
-# dupadupacycki
 ```
-
-tutaj cos licze
-
 
 ```{python}
-import numpy as np
+import pandas as pd
 ```
+
+```{python}
+# importing dataset
+mydata = pd.read_csv("dataset/communities.data", sep=',', header = None)
+```
+
+```{python}
+pd.set_option("display.max_columns",130)
+mydata.head()
+```
+
+TO DO:
+1. Feature selection
+2. Feature engineering
+3. Modelling
+4. Validation and assessment
 
 ```{python}
 
